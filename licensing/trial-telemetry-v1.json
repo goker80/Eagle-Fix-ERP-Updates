@@ -1,0 +1,7 @@
+{
+  "schema": 1,
+  "product": "Eagle Fix ERP",
+  "enabled": true,
+  "ingest_url": "https://eaglefix-trial-tracking.gomagad75.workers.dev/v1/trial/checkin",
+  "generated_at": "2026-09-10T10:28:09.662Z"
+}
