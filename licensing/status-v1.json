@@ -1,10 +1,18 @@
 {
   "schema": 1,
   "product": "Eagle Fix ERP",
-  "generated_at": "2026-09-10T10:35:11.914Z",
+  "generated_at": "2026-09-10T11:16:46.197Z",
   "policy": {
     "unknown_online_license": "REVIEW_OR_BLOCK",
     "offline_license": "LOCAL_SIGNATURE_AND_DEVICE_RULES"
   },
-  "licenses": []
+  "licenses": [
+    {
+      "license_hash": "58e7caea03492e6c3402318b3a13272ba276e98cd23c3b4484eeb4647cd3b331",
+      "device_hash": "072bdcd009161bf31ae67b38f751f18e38dcd43914ce37b077fbfb284848082a",
+      "status": "ACTIVE",
+      "expires_at": "2027-09-10T11:16:46.107Z",
+      "max_lan_clients": 1
+    }
+  ]
 }
