@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "product": "Eagle Fix ERP",
-  "generated_at": "2026-09-10T08:35:50.607Z",
+  "generated_at": "2026-09-10T08:37:40.047Z",
   "policy": {
     "unknown_online_license": "REVIEW_OR_BLOCK",
     "offline_license": "LOCAL_SIGNATURE_AND_DEVICE_RULES"
